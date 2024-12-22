@@ -44,6 +44,7 @@ BUCLE WHILE -
 while(contador<= valor final mientras):
     print(contador)
     contador +=1 : incremento 
+```
 
 # Dia_3
 
