@@ -47,7 +47,6 @@ while(contador<= valor final mientras):
 
 # Dia_3
 
-```
 # MANEJO DE LISTAS DICIONARIOS 
 ```
 Las listas se definen entre llaves y comas
