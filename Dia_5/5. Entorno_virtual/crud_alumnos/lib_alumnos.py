@@ -2,7 +2,7 @@ from tabulate import tabulate
 from colorama import Fore, Back, Style
 
 ANCHO = 20
-TABLE_STYLE = 'double_grid'
+TABLE_STYLE = 'simple_grid'
 
 
 dic_alumnos = {}
