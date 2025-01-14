@@ -1,0 +1,2 @@
+CREATE DATABASE db_proyecto
+    DEFAULT CHARACTER SET = 'utf8mb4';
