@@ -1,4 +1,12 @@
+## División de SQL en sublenguajes
+```Lenguaje de Consulta de Datos (DQL) - El Lenguaje de Consulta de Datos es el sublenguaje responsable de leer, o consultar, datos de una base de datos. En SQL, corresponde al SELECT
 
+Lenguaje deManipulación de Datos (DML ) - El Lenguaje de Manipulación de Datos es el sublenguaje responsable de añadir, editar o borrar datos de una base de datos. En SQL, corresponde a los lenguajes INSERT, UPDATE, y DELETE
+
+Lenguaje de Definición de Datos (DDL ) - El Lenguaje de Definición de Datos es el sublenguaje responsable de definir la forma en que se estructuran los datos en una base de datos. En SQL, esto corresponde a la manipulación de tablas a través de CREATE TABLE, ALTER TABLE, y DROP TABLE
+
+Lenguaje de Control de Datos (DCL) - El Lenguaje de Control de Datos es el sublenguaje responsable de las tareas administrativas de control de la propia base de datos, especialmente la concesión y revocación de permisos de base de datos para los usuarios. En SQL, esto corresponde a los comandos GRANT, REVOKE, y DENY, entre otros.
+```
 ## CREAR UNA TABLA
 ```
 CREATE TABLE alumno(  
@@ -16,8 +24,6 @@ DROP TABLE alumno;
 ```
 ## SENTENCIAAS DM
 ```
-L
-
 --INSERTAR DATOS (INSERT)
 insert into alumno(nro_documento,nombre)value('100','mario');
 
